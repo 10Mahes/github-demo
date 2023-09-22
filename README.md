@@ -1,3 +1,5 @@
 # github-demo
+
 This is my first git repo.
-AuthorName : Mahes
+<br>
+AuthorName : Mahes ( Developer )
